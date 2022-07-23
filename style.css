@@ -129,6 +129,7 @@ h2 {
     justify-content: center;
     align-items: center;
     padding: 1rem 8rem 4rem 8rem;
+    flex-direction: column;
 }
 
 .quote {
@@ -138,5 +139,6 @@ h2 {
 }
 
 .thor {
-    
+    font-weight: bold;
+    margin-left: 38rem;
 }
